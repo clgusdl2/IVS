@@ -1,0 +1,2 @@
+
+        if(minHeight > arrHeight[
